@@ -9,7 +9,7 @@ Clone the project
 
 ```bash
   - git clone https://github.com/Jesko701/tanitama_project_assignment_2.git
-  - delete the rest of the folder
+  - delete the rest of the folder ML and MD
 ```
 
 Go to the project directory
