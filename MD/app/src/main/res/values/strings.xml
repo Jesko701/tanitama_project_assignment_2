@@ -1,14 +1,25 @@
 <resources>
     <string name="app_name">Tanitama</string>
     <string name="title_activity_sign_in">Sign in</string>
-<!--    <string name="prompt_email">Email</string>-->
-<!--    <string name="prompt_password">Password</string>-->
-<!--    <string name="action_sign_in">Sign in or register</string>-->
-<!--    <string name="action_sign_in_short">Sign in</string>-->
-<!--    <string name="welcome">"Welcome !"</string>-->
-<!--    <string name="invalid_username">Not a valid username</string>-->
-<!--    <string name="invalid_password">Password must be >5 characters</string>-->
-<!--    <string name="login_failed">"Login failed"</string>-->
     <string name="title_activity_sign_up">Sign up</string>
     <string name="title_activity_home">HomeActivity</string>
+    <string name="title_activity_main">MainActivity</string>
+    <string name="saran_harga">Saran Harga</string>
+    <string name="deteksi_penyakit">Deteksi Penyakit</string>
+    <string name="ketersediaan_pangan">Ketersediaan Pangan</string>
+    <string name="desc_saran_harga">Maksimalkan penjualan dengan harga yang bersaing</string>
+    <string name="desc_deteksi_penyakit">Ayo deteksi penyakit dini pada tanaman kamu agar hasil panen maksimal</string>
+    <string name="desc_ketersediaan_pangan">Sembako aman ga ya? Yuk check it out!</string>
+    <string name="sign_in">SIGN IN</string>
+    <string name="password">Password</string>
+    <string name="username">Username</string>
+    <string name="camera_x">CameraX</string>
+    <string name="camera">Kamera</string>
+    <string name="gallery">Galeri</string>
+    <string name="upload">Unggah</string>
+    <string name="main_temp">30°C</string>
+    <string name="default_numbers">100</string>
+    <string name="demo_date">1 Juni 2023</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
 </resources>
