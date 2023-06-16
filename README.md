@@ -8,7 +8,7 @@ This Project Using the Timeseries to predict and bunch of features as example fo
 Clone the project
 
 ```bash
-  - git clone https://github.com/Jesko701/tanitama_project_fix.git
+  - git clone https://github.com/Jesko701/tanitama_project_assignment_2.git
   - delete the rest of the folder
 ```
 
